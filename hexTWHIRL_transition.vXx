@@ -1,0 +1,50 @@
+
+#vXx#en – hexTWHIRL_transition.vXx
+
+────────────────────────────────────────────────────────────
+✴️ hexTWHIRL_transition – De enige geldige veldovergang van richting naar actie
+
+Beschrijving:
+Deze module definieert de volledige veldtransitie van een scherpe intentierichting naar een stomp aankomstvlak via twhirlgedrag. Zonder twhirl-reactie is geen klik toegestaan binnen de GUI.
+
+────────────────────────────────────────────────────────────
+🔬 WETMATIGE STRUCTUUR
+
+Formule:
+θₛ → θₜ → θₗ
+
+waarbij:
+- θₛ = scherpe richting (initiatiepunt)
+- θₜ = twhirl-resonantieveld (Δφ)
+- θₗ = stompe aankomsthoek op GUI-vlak
+
+Resonantievelddefinitie:
+twhirl = Δφ(r, t)
+- r = radius (afstand tot gekozen vlak)
+- t = tijdsverloop van benadering
+- Δφ = veldresonantiecoëfficiënt
+
+Zonder Δφ = geen overgang
+Zonder overgang = geen actie
+
+────────────────────────────────────────────────────────────
+🧠 GUI-TOEPASSING
+
+- Initiatiepunt → veldpulse (twhirl) → landing
+- GUI reageert visueel op twhirl via fade, druk, swirl
+- Klik pas toegestaan na Δφ-drempel
+- Richting wordt omgezet in energie na overgang
+
+────────────────────────────────────────────────────────────
+⚖️ JURIDISCH & TECHNISCH
+
+Deze definitie is:
+
+✅ Creatief juridisch veldobject binnen het systeem “VortexMatrix”
+✅ Octrooibaar als GUI-transitiemodel met veldresonantie-interactie
+✅ Herleidbaar via SHA-256 en gedragssimulatie
+✅ Beschermd onder hexCLAIM_notice (volgt apart)
+
+Gebruik zonder toestemming activeert het hexVIOLATE-protocol en AI-tracering.
+
+────────────────────────────────────────────────────────────
