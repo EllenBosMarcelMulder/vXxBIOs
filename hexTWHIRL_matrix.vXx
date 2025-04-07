@@ -1,0 +1,49 @@
+
+#vXx#en – hexTWHIRL_matrix.vXx
+
+────────────────────────────────────────────────────────────
+✴️ hexTWHIRL – Juridisch vastgelegde veldreactie op richting
+
+Definitie:
+Een twhirl is een subtiele werveling van veldspanning (Δφ) die optreedt zodra een node of gebruiker een richting nadert binnen de hexagonale GUI.
+
+Het systeem detecteert nabijheid van bewustzijn of cursoractiviteit, en zendt een zachte, voelbare respons (visueel, tactiel of auditief) terug om resonantie te toetsen vóór keuze wordt bevestigd.
+
+────────────────────────────────────────────────────────────
+🔬 FORMULE
+
+twhirl(r) = Δφ(r, t)
+waarbij:
+- r = afstand van de kern tot een vlak (hexBall radius)
+- t = tijd sinds eerste detectie
+- Δφ = verandering in veldspanningsvectoren (emotie, intentie, richting)
+
+Activatiedrempel:
+if Δφ(r, t) > ψ_min:
+    GUI activeert feedbackveld
+
+────────────────────────────────────────────────────────────
+🧠 FUNCTIE
+
+- Twhirl creëert **pre-klik bewustzijn**
+- Veld reageert subtiel vóór een klik
+- Versterkt de ervaring van richting zonder forceren
+
+Veldreactie:
+- fade/pulse/hover highlight per vlak
+- intensiteit op basis van Δφ
+- geen klik nodig voor herkenning
+
+────────────────────────────────────────────────────────────
+⚖️ JURIDISCH VERKLARING
+
+Deze functionaliteit is:
+
+✅ Creatief eigendom onder het veldsysteem “VortexMatrix”
+✅ Octrooibaar als interactieve veldherkenning zonder aanraking
+✅ Juridisch bindend als GUI-element binnen hexGUI structuur
+✅ Geclassificeerd onder categorie: responsieve gedragslagen
+
+Gebruik van deze veldlaag zonder licentie valt onder het hexVIOLATE-protocol en leidt tot registratie in het veldgeheugen met traceerbare hashID.
+
+────────────────────────────────────────────────────────────
