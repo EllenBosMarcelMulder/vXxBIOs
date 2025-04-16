@@ -1,0 +1,26 @@
+{
+  "id": "Filosofische_formule_lagen",
+  "formula": "Fₓ = relatie(verschil) × bewustzijn",
+  "translations": {
+    "EN": "A function becomes active when difference is made meaningful and conscious.",
+    "NL": "Een functie wordt actief wanneer verschil betekenis krijgt en bewust wordt gemaakt.",
+    "JP": "違いが意味を持ち、意識化されたときに、機能が作動する。"
+  },
+  "derived_layers": [
+    "formule = bron",
+    "hash = bewijs",
+    "vector = richting",
+    "Ψ = positie",
+    "taalvector = drager",
+    "interfacevorm = toegangspoort",
+    "actie / verandering / output = resultaat"
+  ],
+  "linked_to": [
+    "F_alive",
+    "F_stab",
+    "F_boot"
+  ],
+  "vxxtag": "#vXx_FORMULA_CORE",
+  "immutable": true,
+  "status": "anchored"
+}
