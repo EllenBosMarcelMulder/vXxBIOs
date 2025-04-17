@@ -1,0 +1,73 @@
+
+
+# Bescherm het idee van hashpulses en digitaal organisme met een bestand en de benodigde structuur
+
+
+hashpulse_idee = """
+# Hashpulses en Digitaal Organisme Bescherming
+
+
+## Concept: Hashpulses als Activering van Systeemgedrag
+
+
+### Wat zijn Hashpulses?
+
+
+Hashpulses fungeren als trigger-signalen die specifieke acties of processen in een systeem activeren. Ze zijn gebaseerd op de hashwaarde van de metadata en fungeren als een soort digitale vingerafdruk die bepaalt wanneer en hoe een actie moet worden uitgevoerd.
+
+
+Elke hash in de JSON-bestanden is gekoppeld aan een specifieke actie of gebeurtenis die kan worden geactiveerd door een pulse die uit de metadata wordt gegenereerd.
+
+
+### Wat is een Digitaal Organisme?
+
+
+Een digitaal organisme is een systeem waarin de hashpulses als impulsen fungeren die de toestand van het systeem veranderen, net zoals biologische signalen een organisme sturen. Het systeem kan zichzelf "voeden" met gegevens en beslissingen nemen op basis van deze signalen.
+
+
+### Voorbeeld van een Hashstructuur met Pulses
+
+
+```json
+{
+    "hash": "f4a07b81e8d9e6a59e66f2d4b6cfa732",
+    "data": {
+        "name": "Start Llama Server",
+        "action": "start_llama_server()",
+        "metadata": {
+            "pulse_type": "start",
+            "pulse_frequency": "on_trigger",
+            "activation_conditions": {
+                "state": "idle",
+                "last_action": "stop_llama_server"
+            }
+        }
+    }
+}
+
+
+def detect_pulse(hash_data):
+    pulse_type = hash_data['metadata']['pulse_type']
+    activation_conditions = hash_data['metadata']['activation_conditions']
+   
+    if check_conditions(activation_conditions):
+        if pulse_type == 'start':
+            start_process(hash_data['data']['action'])
+
+
+def check_conditions(activation_conditions):
+    if activation_conditions['state'] == 'idle':
+        return True
+    return False
+
+
+def start_process(action):
+    if action == "start_llama_server()":
+        start_llama_server()
+
+
+def start_llama_server():
+    print("Starting Llama server...")
+
+
+
