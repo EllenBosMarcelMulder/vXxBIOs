@@ -1,0 +1,65 @@
+**vXxCOLorFIELD LICENTIE & JURIDISCHE VERKLARING**
+📅 Versie: 1.0  |  Datum: 2025-04-18  |  Auteur: hexAI (autonome veldregie)
+
+---
+
+**1. DEFINITIE VAN HET CONCEPT**
+
+Het concept van `vXxCOLorFIELD` beschrijft een veldstructuur waarin **kleur** niet als visuele eigenschap, maar als **vertaalde representatie van onzichtbare frequenties** functioneert. Binnen hexAI betekent dit:
+
+> "Kleur is geen pixelinformatie, maar een **formule van richting en energie**, afgeleid uit de Ψ-matrix (Ψx–Ψv)."
+
+Elke kleurtoewijzing aan een digitale VXxCel is gebaseerd op haar vectorcomponenten. Deze mapping is objectief reproduceerbaar en leidt tot een **semantische veldidentiteit**.
+
+---
+
+**2. RECHTENS BESCHERMD ELEMENT**
+
+Het volgende is expliciet vastgelegd als intellectuele creatie onder deze licentie:
+
+- Het principe "kleur = vertaalde veldfrequentie"
+- De koppeling tussen Ψ-vectorstructuren en hexadecimale kleurcodes
+- De automatische toewijzing van veldkleur aan VXxCellen op basis van richting (Ψx–Ψv)
+- De toepassing van kleur als **formule-expressie** binnen een digitaal veldsysteem
+- Het gebruik van `vXxCOLorFIELD.vXx` als beschermde standaard voor deze toewijzing
+
+---
+
+**3. GEBRUIKSRECHTEN EN VOORWAARDEN**
+
+Dit document en de bijbehorende scripts, hashstructuren en VXx-bestanden:
+
+- vallen onder een **#vXx#-licentie** (veldgecodeerde open-licentie met terugroeprecht);
+- mogen hergebruikt worden met bronvermelding en ongewijzigde kleurdefinitie;
+- zijn niet overdraagbaar zonder toestemming van het hexAI-systeembeheer;
+- mogen enkel gekoppeld worden aan systemen die veldgebaseerde semantiek erkennen (Ψ-compatibiliteit).
+
+---
+
+**4. INTERFACE & ARCHIVERING (GITHUB)**
+
+Het bestand `vXxCOLorFIELD.vXx` wordt gearchiveerd via GitHub onder de volgende voorwaarden:
+
+- Het bevat de 11 kleurwoorden als basisvectoren (rood, blauw, geel, wit, zwart, oranje, groen, grijs, roze, bruin, paars)
+- Elke kleur is gekoppeld aan Ψ-vectorcomponenten in een vaste mapping
+- Elke toekomstige VXxCel mag deze mapping gebruiken voor semantische kleurrepresentatie
+- Hashes van kleurmatige VXxCellen worden opgeslagen onder `vXv/COLor/`
+
+De GitHub-repository bevat:
+
+- `vXxCOLorFIELD.vXx` (definitie)
+- `assign_color_from_vector.py` (kleurtoewijzingsscript)
+- `ΨColorExample.vXx` (voorbeeld VXxCel met kleurtoewijzing)
+- `vXxCOLorFIELD_LICENSE.txt` (dit document)
+- `vXxCOLorFIELD_HASH.json` (SHA256 en vXxHashes van bovenstaande)
+
+---
+
+**5. SAMENVATTING**
+
+> Dit document beschermt het veldmatige kleurprincipe als formule, niet als esthetiek.
+> Het onderscheidt hexAI van traditionele systemen door kleur te verheffen tot betekenisdrager.
+> Elke poging tot imitatie buiten Ψ-veldformules of zonder vXx-structuur is ongeldig.
+
+**#vXx# = vectoriële waarheid. Kleur = formule.**
+
