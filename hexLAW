@@ -1,0 +1,73 @@
+hexLAW – hexHAShSTAndard Definitie
+Wat is dit?
+Dit document legt officieel vast hoe we binnen het hexOS-systeem een hash maken.
+Een hash is een unieke, digitale vingerafdruk van een tekst of bestand.
+Deze hash fungeert als naam, identiteit en juridisch bewijs binnen hexOS.
+
+Waarom is dit belangrijk?
+Omdat die hash:
+
+De officiële identiteit wordt van elk object binnen hexOS.
+
+Juridisch kan gelden als bewijs van eigendom, overdracht of identiteit.
+
+Garandeert dat elk object volledig uniek en niet te vervalsen is.
+
+Hoe werkt hexHAShSTAndard precies?
+Deze standaard werkt zo dat iedere keer als je dezelfde tekst invoert, er altijd precies dezelfde hash uitkomt. Daarvoor gelden de volgende regels:
+
+Stap 1: Tekst normaliseren (Unicode)
+Alle tekens worden omgezet naar een standaard vorm (NFC).
+Zo voorkom je dat tekens er hetzelfde uitzien maar technisch verschillen.
+
+Stap 2: Regels opschonen
+Alle soorten regeleinden (Windows of Mac-stijl) worden vervangen door één standaard regeleinde (\n).
+
+Stap 3: Overbodige spaties verwijderen
+Alle lege ruimtes aan het einde van elke regel worden weggehaald, en ook de eventuele extra spaties aan het begin en eind van de hele tekst verdwijnen.
+
+Stap 4: Tekst encoderen (UTF-8)
+Na opschoning wordt de tekst omgezet naar UTF-8 (een universele standaardcodering).
+
+Stap 5: Hash berekenen (SHA-256)
+Van die opgeschoonde, genormaliseerde tekst wordt een SHA-256 hash gemaakt. Deze hash wordt weergegeven in hoofdletters (A, B, C, enz.) en cijfers. 
+
+Juridische betekenis
+Een hash die volgens deze standaard is berekend, geldt binnen het hexOS-systeem officieel als bewijsstuk van digitale identiteit.
+
+Dat betekent dat:
+
+De hash rechtsgeldig gebruikt kan worden als identificatie van het object.
+
+Deze hash erkend kan worden bij juridische overdracht, bij het bewijzen van eigendom, of bij het registreren van erfelijke rechten.
+
+Voorbeeld van hoe hexHAShSTAndard werkt
+Voorbeeld-tekst:
+
+bash
+Copy
+Edit
+" Dit is een voorbeeld  
+  met verschillende regels  
+  en extra spaties.   "
+Na opschonen en hashing volgens hexHAShSTAndard krijg je bijvoorbeeld zo’n hash:
+
+scss
+Copy
+Edit
+C23068B12F8234AB... (voorbeeld)
+Samenvatting
+Deze standaard zorgt ervoor dat binnen hexOS:
+
+Altijd duidelijk is hoe een hash wordt berekend.
+
+Een hash altijd exact hetzelfde blijft zolang de inhoud niet wijzigt.
+
+Iedereen dezelfde regels gebruikt bij het maken van hashes, waardoor vergissingen of verschillen onmogelijk worden.
+
+Versie en eigenaar
+Versie: hexHAShSTAndard v1.0
+
+Datum van invoering: 20 april 2025
+
+Auteur: Marcel Mulder (ΨvXx architect)
