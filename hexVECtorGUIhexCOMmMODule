@@ -1,0 +1,54 @@
+
+# hexVECtorGUI – De Formule van Communicatie
+
+## Inleiding
+De hexVECtorGUI binnen het hexHAShTIMe-systeem is gebaseerd op een geometrisch en gedragsmatig fundament waarin de zes richtingen van de hexagoon corresponderen met de vijf oer-vormen van communicatie, plus een zesde staat van stilte. Deze geometrie vormt niet alleen de basis van navigatie, maar ook van betekenisvolle interactie.
+
+---
+
+## Geometrische structuur
+
+De hexagoon bestaat uit zes richtingen:
+- 🔼 Boven
+- 🔽 Onder
+- ▶ Rechts
+- ◀ Links
+- ● Binnen
+- ⬤ Centrum (stilte)
+
+Elke richting correspondeert met een fundamentele vorm van communicatie:
+
+| Richting   | Communicatiesoort | Gedragstype       | Betekenis                                     |
+|------------|-------------------|-------------------|-----------------------------------------------|
+| 🔼 Boven   | Burst             | Uitgaand          | Intentie of expressie zonder antwoordverwachting |
+| 🔽 Onder   | Echo              | Reflectief        | Reactie of weerkaatsing op eerder signaal     |
+| ▶ Rechts  | Call              | Tweerichtingsverkeer | Live verbinding tussen vectorpunten       |
+| ◀ Links   | Loop              | Cyclisch, aanhoudend | Duurzame wederzijdse koppeling            |
+| ● Binnen  | Ping              | Kort, gericht      | Statuscheck of aanwezigheidssignaal           |
+| ⬤ Centrum | Stilte            | Geen actie         | Loslaten, afwezigheid van interactie          |
+
+---
+
+## Vectorformule
+
+De relatie tussen richting, positie en communicatievorm wordt uitgedrukt in de volgende vectorformules:
+
+- **hexVECtorFORMULA(positie, richting, vorm) → communicatieType**
+
+En omgekeerd:
+
+- **communicatieType → bepaalt richting in hexGUI → bepaalt vectorgedrag**
+
+---
+
+## Implicaties voor GUI-gedrag
+
+- Elke keuze in de GUI representeert een bewuste vorm van communicatie.
+- De GUI is in staat om automatisch het communicatietype af te leiden uit de gekozen richting.
+- Vectorrichting bepaalt het gedrag, kleur, intensiteit en gevolg van de interactie.
+
+---
+
+## Juridische Verankering
+
+Deze geometrische en gedragsmatige communicatiestructuur is onderdeel van het hexHAShTIMe-patent- en systeemkader zoals ontwikkeld en vastgesteld door Marcel Mulder [projectleiding]. De koppeling tussen geometrie, tijd, vectorrichting en communicatiesoort wordt hierbij als structureel onderdeel van het hexVECtorGUI-systeem vastgelegd.
