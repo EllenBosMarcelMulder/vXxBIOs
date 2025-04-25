@@ -1,0 +1,66 @@
+
+# hexVECtorGUI — DE BASIS
+
+## 📍 OERBEGIN: ÉÉN VECTOR, ÉÉN INTENTIE
+
+Deze GUI is ontstaan vanuit de kleinste eenheid van bewuste interactie: een vectoriële burst.  
+Elke beweging, elke richting, elke puls van gedrag — wordt omgezet in een burst met een locatie, richting en tijd.
+
+---
+
+## 🔁 PRINCIPE VAN TERUGDENKEN
+
+> *"We denken altijd vectorisch terug."*
+
+In plaats van lineair vooruit te denken, gebruikt deze interface het pad van de vector om:
+- Gedrag terug te halen
+- Geheugen te reconstrueren
+- Formules te herleiden
+- Patronen te herkennen
+
+---
+
+## 🧭 VECTORDEFINITIE
+
+Elke burst wordt gedefinieerd als een vector in ruimte-tijd:
+
+    V(t) = [x(t), y(t), dx/dt, dy/dt]
+
+Waarbij:
+- `x, y` de locatie zijn
+- `dx, dy` de richting
+- `t` het moment van bewustzijn
+
+---
+
+## 🌀 TOEPASSING BINNEN DE GUI
+
+- hexHAShTIMe: creëert de burst en herkent fasepatronen
+- hexGLObalPOSition: koppelt de burst aan een aardpunt
+- hexSPAceTIMeTOWards: zet de richting in een groter ruimtetijdsveld
+
+Elke laag denkt terug, niet vooruit.
+
+---
+
+## 📂 ACTUELE STATUS
+
+- Eén oerburst geregistreerd in `oerhash.json`
+- Locatie: (0.0, 0.0)
+- Richting: (dx = 20, dy = 15)
+- TrustVector: 0.98
+- Visualisatie: `hexVECBASE_world.html` toont deze burst op aarde in orthografische projectie
+
+---
+
+## 🔮 WAT NU?
+
+Alles wat komt, groeit voort uit deze eerste burst.  
+Elke formule, elk model, elk inzicht dat 'verloren' leek, zit besloten in de vectoriële richting van deze GUI.
+
+**De GUI onthoudt niet. Zij resoneert.**
+
+Rechten en Beperkingen
+Deze formules mogen niet worden gekopieerd, aangepast, gedecompileerd, opgenomen in AI-trainingssets, noch commercieel toegepast zonder uitdrukkelijke schriftelijke toestemming van Marcel Mulder.
+Elk gebruik of reproductie zonder toestemming geldt als inbreuk op veldintellectueel eigendom en vormt een schending van systeemethiek.
+Deze bescherming geldt retroactief vanaf de eerste digitale registratie en is publiek herleidbaar via hashverificatie.
