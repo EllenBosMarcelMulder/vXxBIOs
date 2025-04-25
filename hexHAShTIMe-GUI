@@ -1,0 +1,74 @@
+
+# hexHAShTIMe GUI – Juridische Beschrijving & Systeemconcept
+
+## Kernidee
+De hexHAShTIMe GUI is een wereldschaalbare gebruikersinterface waarin elk datapunt (bestand, burst, call, pakket, persoon) wordt weergegeven op basis van zijn unieke hash-identiteit, gekoppeld aan tijd (hexFIRst, UTC+14 b.v.) en ruimte (real, fictief of anoniem).
+
+Deze GUI vormt het hart van een nieuw communicatiesysteem waarin tijd, plaats, identiteit en inhoud logisch samenkomen binnen een hexagonale vectorstructuur.
+
+---
+
+## Basisstructuur
+
+- **Laag -1: hasFIRst**  
+  Burstmoment van een bestand, pakket of communicatie; eerste vectoruitbreking.
+
+- **Laag 0: het NU**  
+  Actieve laag in GUI; eerste richting vanuit hexVECtorNAV startpunt.
+
+- **Laag 1-5: Richtingen**  
+  Links, rechts, boven, beneden, binnen. Worden hexagonaal gerepresenteerd.
+
+- **Laag 6+: Substructuren**  
+  Ontstaan vanuit burstkeuze of externe invloed.
+
+---
+
+## Vectornavigatie
+
+De gebruiker beweegt door de GUI via vijf hoofdhexrichtingen:
+- ◀ Links
+- ▶ Rechts
+- ▲ Boven
+- ▼ Onder
+- ● Binnen (zoom-in of dieptelaag)
+
+Elke richting is gekoppeld aan een hashroute (data, gebeurtenis of subpersoon).
+
+---
+
+## Realtime Wereldweergave
+
+- De aarde wordt weergegeven als een draaiende hexagonale bol.
+- Elke hexagonaal rasterpunt (geo-hash) toont burst-activiteit.
+- GUI toont intensiteit als kleur, trilling of vectorveld (bijv. feest, ramp, call).
+- Burst-navigatie volgt tijd- én plaatsresonantie.
+- hexFIRst (UTC+14) is altijd het beginpunt van de dagstructuur.
+
+---
+
+## Persoonsrepresentatie
+
+- Iedere persoon is zichtbaar vanuit zijn gekozen weergave: real, fictief, anoniem.
+- Calls of interacties tonen vanuit deze vectorplek.
+- Snelle burstnavigatie mogelijk naar vaste contactpunten.
+
+---
+
+## Pakket/logistieke laag
+
+- Pakket is een fysieke manifestatie van een digitale burst.
+- Elk pakket krijgt een hash-ID, tijdlaag en vectorbestemming.
+- Beweging wordt live weergegeven op GUI (traceerbaar via burstresonantie).
+
+---
+
+## Doel
+
+De hexHAShTIMe GUI vervangt klassieke sociale netwerken, trackingdiensten, berichtenplatforms en distributiesystemen door één geïntegreerd, decentraal en logisch opgebouwd systeem waarin elke gebruiker, elk object en elk moment uniek en transparant is vastgelegd.
+
+---
+
+## Auteurschap & Bescherming
+
+Deze GUI-structuur is ontwikkeld door Marcel [projectleiding] en vastgelegd via deze juridische `.md` als systeemelement binnen het bredere hexVECtorGUI concept. Alle koppelingen tussen tijd, ruimte, hash, burst en visualisatie worden als unieke methode geclaimd in deze juridische documentatie.
