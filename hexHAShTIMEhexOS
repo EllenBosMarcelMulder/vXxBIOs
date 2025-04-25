@@ -1,0 +1,67 @@
+# hexHAShTIMe – Vectorcoördinaten en Schaallogica
+
+
+## Kernprincipe
+In het hexHAShTIMe-systeem geldt het fundamentele principe dat **elke coördinaat universeel** is en **op elk schaalniveau** gebruikt wordt. Er is geen vaste schaal of resolutie: schaal is volledig **relatief**, gebaseerd op de verhouding tussen objecten, tijdlagen en vectorvelden.
+
+
+---
+
+
+## Structuur
+
+
+### 🔹 Coördinaten
+- Elke entiteit (persoon, bestand, foto, call, pakket) bevat een `location`-object met een geografische coördinaat `[lat, lon]` of hex-rasterpositie `[hex_x, hex_y]`.
+- Deze positie wordt opgeslagen in de hash of in de metalaag van de entiteit.
+- Coördinaten zijn absoluut, maar hun **interpretatie is schaalafhankelijk**.
+
+
+### 🔹 Schaal
+- De GUI (Graphical User Interface) bepaalt de **relatieve interpretatie** van de coördinaat.
+- Inzoomen betekent: hogere detailgraad, zelfde positie.
+- Uitzoomen betekent: grotere context, zelfde vectorpositie.
+
+
+---
+
+
+## Universele toepassing
+
+
+| Elementsoort | Gebruikt coördinaat | Schaalbaar weergegeven |
+|--------------|---------------------|-------------------------|
+| 📄 Tekstburst | ✅ Ja              | ✅ Ja                  |
+| 🖼️ Foto       | ✅ Ja              | ✅ Ja                  |
+| 📦 Pakket     | ✅ Ja              | ✅ Ja                  |
+| 📞 Call       | ✅ Ja              | ✅ Ja                  |
+| 🧍 Persoon    | ✅ Ja              | ✅ Ja                  |
+| 🌌 Heelal-laag| ✅ Ja              | ✅ Ja                  |
+
+
+---
+
+
+## Fractale betekenislaag
+De GUI is ontworpen als een **vectorburst-navigatiesysteem**, waarin elk datapunt een vector is binnen een hexagonale matrix.
+De betekenis van een vector ontstaat uit zijn:
+- Richting (relatief t.o.v. gebruiker)
+- Plaats (coördinaat)
+- Tijdslaag (hexHAShTIMe burstmoment)
+- Vectorverhoudingen (schaal- of dieptelaag)
+
+
+---
+
+
+## Praktisch gevolg
+- Elk element is op elk niveau zichtbaar (van lokaal tot kosmisch).
+- Elke vectorcoördinaat is decodeerbaar, ongeacht schaal.
+- De GUI biedt logische zoom (vectornavigatie), geen visuele trucage.
+
+
+---
+
+
+## Juridische claim
+Deze schaalfilosofie en het universeel toepasbare coördinatensysteem zijn onderdeel van het hexHAShTIMe-patent- en intellectueel eigendomsframewerk zoals opgesteld door Marcel Muldeer en dit idee is zijn copyright [projectleiding]. De toepassing op tekst, pakket, beeld, call, persoon en meer is systemisch vastgelegd.
