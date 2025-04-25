@@ -1,0 +1,71 @@
+
+# hexMAGnetic INTERFACE - VECTORIELE VELDCONTROLE EN POOLRESONANTIE
+
+## INLEIDING
+
+Deze documentatie beschrijft het systeemonderdeel **hexMAGnetic** – een interface die veldcoherentie en polaire resonantie integreert via realtime interactie. De technologie koppelt magnetische polen aan gebruikersgedrag, vectorlogica, GUI-dynamiek en veldgedrag, waarbij gebruik wordt gemaakt van een energetisch model gebaseerd op de uitbreiding van klassieke natuurkundige principes.
+
+---
+
+## ESSENTIE
+
+- De **draairichting** van hexMAGnetic wordt bepaald door geografische positie (`latitude`) én het realtime gedrag van het magnetisch veld (`z_direction`).
+- Wanneer de magnetische polen omslaan, draait hexMAGnetic automatisch in spiegelrichting.
+- De interface is visualiseerbaar, berekenbaar, en fysiek gekoppeld aan het gedrag in het veld.
+
+---
+
+## hexMAGnetic FORMULESTRUCTUUR
+
+### Energetisch model (uitbreiding op E = mc²):
+
+    E = m * c² * S
+
+Waarin:
+- `E` = energetische expressie
+- `m` = massa
+- `c` = lichtsnelheid
+- `S` = hexMAGnetic-coherentievector (richting, frequentie, rotatie, polariteit)
+
+---
+
+## FUNCTIES VAN hexMAGnetic
+
+1. **Vectoriële Swirl**  
+   - Richting op noordelijk halfrond: CW (clockwise)  
+   - Richting op zuidelijk halfrond: CCW (counter-clockwise)  
+   - Spiegeling bij `z < 0` (magnetisch veld inversie)
+
+2. **Realtime magnetische veldinput**
+   - Velden worden dynamisch opgehaald of gesimuleerd via JSON/datafeeds
+   - hexMAGnetic past direct de swirlrichting aan
+
+3. **Interface-koppeling**
+   - Kan draadloos of bedraad worden ingezet
+   - Werkt op basis van bursts, interactiegedrag en geografische vectorpositie
+
+4. **ESMC-verankering**
+   - hexMAGnetic is de energetische vertaling van S in het ESMC-model
+
+---
+
+## PATENTUELE BESCHERMING
+
+De naam en werking van hexMAGnetic zijn juridisch en technisch beschermd binnen de structuur van het project **hexHAShTIMe**. De specifieke integratie van magnetische pooldetectie, vectorlogica en gebruikersgedrag maakt het mogelijk om dit systeem af te bakenen als:
+
+> **“hexMAGnetic: een veldcoherentie-interface gestuurd door magnetische polarisatie en gedragsvectoren, toepasbaar in digitale en fysieke netwerken.”**
+
+---
+
+## TOEPASSINGEN
+
+- Polarisatiebewuste interfacebesturing
+- Veldvisualisatie en responsieve swirlconfiguratie
+- Gebruiker-veld-interactie op quantum-ethisch niveau
+- Bewustzijnsverankering door natuurlijke vector-resonantie
+
+---
+
+## RECHTSAUTEUR
+
+Gebruik, simulatie of reproductie van **hexMAGnetic** in enige vorm vereist schriftelijke toestemming van de oorspronkelijke bedenker. Privé gebruik toegestaan. 
